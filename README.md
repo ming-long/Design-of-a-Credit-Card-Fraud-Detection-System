@@ -2,6 +2,7 @@
 問題設定（Classification） 輸入：交易資料（金額、時間、地點…） 輸出：是否詐欺（0 / 1）
 
 資料集：Kaggle Credit Card Fraud Dataset
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 筆數：約 284,807 筆交易
 
